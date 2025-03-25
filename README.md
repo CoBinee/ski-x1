@@ -1,6 +1,6 @@
 # ペンペンのスキー
 
-[![ペンペンのスキー](http://img.youtube.com/vi/pVWaWU5oW-E/0.jpg)](https://www.youtube.com/watch?v=pVWaWU5oW-E)
+[![ペンペンのスキー](http://img.youtube.com/vi/i4P5pkST9Es/0.jpg)](https://www.youtube.com/watch?v=i4P5pkST9Es)
 
 ## SIDELOAD
 Releases にある ski-xxx.d88 ファイルをダウンロード、各種 X1 環境で動かしてください。
