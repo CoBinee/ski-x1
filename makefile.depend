@@ -1,0 +1,11 @@
+crt0.o              :   crt0.asm \
+                        xcs.inc
+xcs.o               :   xcs.asm xcs.inc
+app.o               :   app.asm app.inc \
+                        xcs.inc
+title.o             :   title.asm title.inc \
+                        xcs.inc \
+                        app.inc
+game.o              :   game.asm game.inc \
+                        xcs.inc \
+                        app.inc
